@@ -28,8 +28,8 @@ if (Test-Path $arquivoData) {
 }
 
 # -----------------------------------------------------------
-# REMOVA O '#' ABAIXO PARA ATIVAR O MODO PRODUÇÃO
-# if (-not $devePerguntar) { exit }
+# ADICIONE O '#' ABAIXO PARA ATIVAR O MODO TESTE
+if (-not $devePerguntar) { exit }
 # -----------------------------------------------------------
 
 Add-Type -AssemblyName System.Windows.Forms
