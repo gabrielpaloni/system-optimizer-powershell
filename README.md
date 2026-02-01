@@ -7,7 +7,7 @@
 This repository hosts a **System Optimization Tool** developed to automate routine Windows maintenance. It represents a deep dive into **System Administration** and **GUI Development** using pure PowerShell, bridging the gap between backend scripting and frontend user experience.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8f3e7ec3-9b54-41ca-9509-93ace8a3178b" alt="System Optimizer Preview" width="600">
+  <img width="4296" height="3032" alt="Image" src="https://github.com/user-attachments/assets/f819afee-89e8-482e-a805-c67e2693e32d" />
 </div>
 
 ---
