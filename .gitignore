@@ -1,0 +1,12 @@
+# Ignorar arquivos de log e controle de data
+*.log
+*.txt
+
+# Ignorar arquivos temporários do sistema
+*.tmp
+thumbs.db
+desktop.ini
+
+# Ignorar configurações de usuário de IDEs (opcional)
+.vscode/
+*.user
